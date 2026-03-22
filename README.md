@@ -1,2 +1,3 @@
 # zs-pkg-ui-maps
-ZarishSphere shared frontend library: maps
+
+Generated directly from internal PRD specification.
