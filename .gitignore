@@ -1,0 +1,17 @@
+# Node
+node_modules/
+.next/
+dist/
+.turbo/
+.vercel/
+.env
+.env.*
+!.env.example
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+out/
